@@ -1,5 +1,6 @@
 # Xcode `.usdz` converter 
-
+Make sure Xcode 10 is installed and change the command line tool to the latest version at 
+ `Xcode > Preferences > Locations > Command Line Tools`
 
 ## Static Model
 >Visualize
@@ -17,7 +18,7 @@
 `xcrun usdz_converter ~/Desktop/quickLook/PokemonStatic.obj ~/Desktop/quickLook/usdz/PokemonStatic.usdz -color_map ~/Desktop/quickLook/textures/color.jpg -normal_map ~/Desktop/quickLook/textures/normal.jpg -roughness_map ~/Desktop/quickLook/textures/roughness.jpg -ao_map ~/Desktop/quickLook/textures/ao.jpg`
 
 
-## Animated Model
+## Animated Model (Alembic file)
 
 >Visualize
 
