@@ -1,4 +1,4 @@
-# Xcode `.usdz` converter 
+# Xcode `.usdz` file converter 
 Make sure Xcode 10 is installed and change the command line tool to the latest version at 
  `Xcode > Preferences > Locations > Command Line Tools`
 
