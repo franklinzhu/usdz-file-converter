@@ -18,7 +18,7 @@ Make sure Xcode 10 is installed and change the command line tool to the latest v
 `xcrun usdz_converter ~/Desktop/quickLook/PokemonStatic.obj ~/Desktop/quickLook/usdz/PokemonStatic.usdz -color_map ~/Desktop/quickLook/textures/color.jpg -normal_map ~/Desktop/quickLook/textures/normal.jpg -roughness_map ~/Desktop/quickLook/textures/roughness.jpg -ao_map ~/Desktop/quickLook/textures/ao.jpg`
 
 
-## Animated Model (Alembic file)
+## Animated Model (Alembic file)/Multiple materials
 
 >Visualize
 
